@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Chickendish/CookieReact/issues"
   },
-  "homepage": "https://github.com/Chickendish/CookieReact#readme"
+  "homepage": "https://github.com/Chickendish/CookieReact#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
